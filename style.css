@@ -1,7 +1,13 @@
-.title {
-    width: 500px;
-    height: 400px;
-    border: 2px solid rgb(13, 112, 36);
-    background-image: url("https://media.istockphoto.com/id/1489566726/photo/leopard-in-sri-lanka.jpg?s=612x612&w=0&k=20&c=kIHqKhwO_JCq94l7yg8zkZuY-v-BbiaaRxr-giy97w4=");
-    box-shadow: 0 10px 10px rgb(16, 134, 59);
+.class{
+    width: 1220px;
+    height: 300px;
+    margin: 0 auto;
+    border: 2px;
+
+}
+.container {
+    width: 1920px;
+    height: 22515px;
+    border: 10px solid red;
+    margin: 0 auto;
 }
