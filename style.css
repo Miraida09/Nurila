@@ -1,4 +1,21 @@
 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(66, 64, 64);
+}
+
+.container {
+    width: 1920px;
+    height: 500px;
+    margin: 0 auto;
+    background: #222222;
+=======
+
 
 
 :root{
@@ -44,6 +61,101 @@ nav a{color:var(--muted);text-decoration:none;margin-left:20px;font-size:14px}
   align-items:center;
   margin-bottom:48px;
 }
+
+
+.container-1 {
+    width: 1920px;
+    height: 22515px;
+    margin: 0 auto;
+    background: #222222;
+
+}
+
+.container {
+    width: 1920px;
+    height: 22515px;
+    margin: 0 auto;
+    background: #222222;
+
+}
+
+.container img {
+    margin-left: 200px;
+    margin-top: 50px;
+}
+
+.title {
+    display: flex;
+    margin-left: 200px;
+    margin-top: 20px;
+    gap: 80px;
+    color: aliceblue;
+}
+
+.miraida {
+    width: 1972px;
+    height: 1243px;
+    /* border: 2px solid red; */
+    backdrop-filter: blur(77px);
+    background: rgba(0, 0, 0, 0.01);
+    position: relative;
+    bottom: 22300px;
+}
+
+.miraida-1 {
+    margin-left: 80px;
+    margin-top: 100px;
+    font-weight: 900;
+
+}
+
+.miraida-1 h1 {
+    color: aliceblue;
+}
+
+.miraida-1 span {
+    color: rgb(200, 162, 123, 1);
+}
+
+.miraida p {
+    color: aliceblue;
+    margin-left: 80px;
+    font-weight: 900;
+}
+
+.miraida-2 {
+    margin-top: 30px;
+    margin-left: 80px;
+
+}
+
+.miraida h6 {
+    color: aliceblue;
+    margin-left: 480px;
+    margin-top: -70px;
+    font-weight: 900;
+}
+
+.miraidazxc {
+    margin-left: 660px;
+    margin-top: -700px;
+}
+
+.mir {
+    margin-top: -400px;
+
+}
+
+.nurila {
+    margin-left: 200px;
+    position: relative;
+    /* margin-bottom: 22200px; */
+    margin-top: -22300px;
+}
+.item {
+    margin-left: 200px;
+}
+
 .hero .content h1{font-size:36px;margin:0 0 12px;font-weight:800}
 .hero .content p{color:var(--muted);margin:0 0 20px}
 .cta-row{display:flex;gap:12px}
@@ -110,3 +222,4 @@ footer small{color:var(--muted)}
 .muted{color:var(--muted)}
 .center{text-align:center}
     
+
